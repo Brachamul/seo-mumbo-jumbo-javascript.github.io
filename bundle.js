@@ -10,6 +10,8 @@ var app = new Vue({
 		<p>This page has a <a href="https://seo-mumbo-jumbo-html.github.io/">html</a> twin which also attemps to get referenced on google with similar keywords.</p>
 		<h2>The Mumbo in this SEO</h2>
 		<p>Is mainly about jumbo. This is the key takeaway. And this here is plain placeholder content to make sure the page has, at least, something to say about SEO mumbo jumbo.</p>
+		<p> Donec consectetur feugiat mattis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi dignissim tellus in faucibus viverra. Suspendisse potenti. Integer dictum mattis sem non mattis. Praesent vitae odio placerat, vehicula velit in, aliquet felis. Nullam iaculis massa a purus scelerisque tincidunt.</p>
+		<p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus quis eleifend neque. Sed varius quam vitae tincidunt facilisis. Phasellus felis orci, ornare sit amet viverra ac, tempor ut risus. Pellentesque commodo varius libero, quis auctor nisi. Nam interdum orci et justo pulvinar fringilla. Vivamus eu sem sed ante hendrerit tempus eget consequat augue. Ut dictum imperdiet nibh ut fringilla. Cras vel bibendum sapien. Sed sit amet velit fringilla, rutrum risus non, pulvinar eros. Nam congue, risus eu consectetur pellentesque, diam massa blandit metus, quis egestas dui urna in nisi. Etiam feugiat convallis massa, aliquet ornare dui eleifend sed. Integer tincidunt fringilla nulla ut egestas. Nullam fringilla lacus at leo congue cursus.</p>	
     `
   }
 });
